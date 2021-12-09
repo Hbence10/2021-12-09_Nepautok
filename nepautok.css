@@ -30,9 +30,9 @@ a:hover {
 	color: chocolate;
 }
 
-.bogar {
-	border: black 2px solid;
-width: 250px;
-height: 200px;
-
+.img-box {
+	width: 200;
+	background-color: #eee;
+	padding: 10px;
+	border: 1px #999 solid;
 }
