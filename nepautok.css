@@ -31,5 +31,8 @@ a:hover {
 }
 
 .bogar {
-	border: ;
+	border: black 2px solid;
+width: 250px;
+height: 200px;
+
 }
